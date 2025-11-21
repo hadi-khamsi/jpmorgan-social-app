@@ -1,5 +1,3 @@
-# Team-13
-
 ## Setup commands
 
 ---
